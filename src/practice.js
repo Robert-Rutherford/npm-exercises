@@ -12,4 +12,4 @@ const thing = {
     color: 'off-white'
 };
 
-module.exports = {item,thing};
+export {item,thing};
