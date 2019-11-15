@@ -1,8 +1,8 @@
 const item = {
-  name: 'eggs',
-  weight: 'eggs',
-  type: 'eggs',
-  color: 'brown'
+    name: 'eggs',
+    weight: 'eggs',
+    type: 'eggs',
+    color: 'brown'
 };
 
 const thing = {
@@ -12,4 +12,4 @@ const thing = {
     color: 'off-white'
 };
 
-export {item,thing};
+export {item, thing};

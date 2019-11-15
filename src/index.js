@@ -1,10 +1,10 @@
 "use strict";
 import $ from 'jquery';
-import {item as eggs,thing} from './practice.js';
+import {item as eggs, thing} from './practice.js';
 import greeting from "./say-hello";
 
 (() => {
-    $('body').css('background-color','red');
+    $('body').css('background-color', 'red');
 
     const sayHello = () => console.log("hello");
 
